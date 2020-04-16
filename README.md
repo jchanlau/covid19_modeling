@@ -1,5 +1,4 @@
-# covid19_modeling
-Covid19 models
+# Covid19 models and resources
 
 ## Agent-based models
 - Silva, Petronio, Agent-Based Mode  
