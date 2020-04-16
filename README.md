@@ -9,7 +9,3 @@
 ## Google community mobility packages
 - [Joachim Gassen ```tidycovd19 ```](https://joachim-gassen.github.io/2020/03/meet-tidycovid19-yet-another-covid-19-related-r-package/)
 - [Amarang python parser](https://gist.github.com/Amarang/3341c9a24da4556def7c3a03a12949b8)
-
-
-
-
